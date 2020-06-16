@@ -1,2 +1,2 @@
 # nameChanger
-Programm that changes desirable fragment of all filenames in specified folder
+Program that changes desirable fragment of all filenames in specified folder
